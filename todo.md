@@ -7,3 +7,9 @@
 - make voice better for speed-down playing
 - *load decoded data if available*
 - *progress bar adjust with width of window*
+
+## Note
+
+```
+sudo apt-get install libasound2-dev
+```
